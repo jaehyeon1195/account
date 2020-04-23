@@ -1,0 +1,12 @@
+C:\Users\54281\OneDrive\바탕 화면\0924 실습과제\0924 실습과제\bin\Debug\0924 실습과제.exe
+C:\Users\54281\OneDrive\바탕 화면\0924 실습과제\0924 실습과제\bin\Debug\0924 실습과제.pdb
+C:\Users\54281\OneDrive\바탕 화면\0924 실습과제\0924 실습과제\obj\Debug\0924 실습과제.csprojAssemblyReference.cache
+C:\Users\54281\OneDrive\바탕 화면\0924 실습과제\0924 실습과제\obj\Debug\0924 실습과제.csproj.CoreCompileInputs.cache
+C:\Users\54281\OneDrive\바탕 화면\0924 실습과제\0924 실습과제\obj\Debug\0924 실습과제.exe
+C:\Users\54281\OneDrive\바탕 화면\0924 실습과제\0924 실습과제\obj\Debug\0924 실습과제.pdb
+C:\Users\user\Desktop\비트고급30기\4.C#\0924 실습과제(계좌관리 프로그램),거래내역\0924 실습과제\bin\Debug\0924 실습과제.exe
+C:\Users\user\Desktop\비트고급30기\4.C#\0924 실습과제(계좌관리 프로그램),거래내역\0924 실습과제\bin\Debug\0924 실습과제.pdb
+C:\Users\user\Desktop\비트고급30기\4.C#\0924 실습과제(계좌관리 프로그램),거래내역\0924 실습과제\obj\Debug\0924 실습과제.csprojAssemblyReference.cache
+C:\Users\user\Desktop\비트고급30기\4.C#\0924 실습과제(계좌관리 프로그램),거래내역\0924 실습과제\obj\Debug\0924 실습과제.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\비트고급30기\4.C#\0924 실습과제(계좌관리 프로그램),거래내역\0924 실습과제\obj\Debug\0924 실습과제.exe
+C:\Users\user\Desktop\비트고급30기\4.C#\0924 실습과제(계좌관리 프로그램),거래내역\0924 실습과제\obj\Debug\0924 실습과제.pdb
